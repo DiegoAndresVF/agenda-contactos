@@ -420,7 +420,7 @@ Ejecutar Acción (switch) → Actualizar Agenda
 **Equipo GUI2**
 - Tiago Alcazar
 - Héctor Chacón
-- Francisca Chávez
+- Francis Chávez
 - Brahim González
 - Diego Villagrán
 - Belén Almendros
